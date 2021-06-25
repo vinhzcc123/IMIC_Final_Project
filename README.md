@@ -1,1 +1,1 @@
-# IMIC_Final_Project
+# final_IMIC_Project
