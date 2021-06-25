@@ -1,0 +1,8 @@
+custom.c:6:6:custom_clock_init	24	static
+custom.c:24:6:custom_systick_init	16	static
+custom.c:32:6:custom_delay	24	static
+custom.c:45:6:custom_UART_init	24	static
+custom.c:59:6:UART_write	24	static
+custom.c:70:9:UART_read	24	static
+custom.c:81:6:custom_DMA	32	static
+custom.c:100:6:find_OK	16	static
